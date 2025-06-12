@@ -2,7 +2,7 @@
 
 Implement a multi select input below using vanilla js
 
-## Output
+## Deliverables
 
 1. A multi select input using vanilla js
 2. Ability to search through options
