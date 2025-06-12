@@ -24,3 +24,7 @@ type OmitFieldType = {
 };
 
 //5. Create a generic function whose return type should be the same as the first parameter
+
+//6. Create a function which return type is conditional to the type of the first parameter
+
+//7. Create a function which accepts the parameter as key of another typ
