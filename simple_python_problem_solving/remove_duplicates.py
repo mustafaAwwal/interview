@@ -6,4 +6,4 @@ def remove_duplicates(parameters: list[int]):
     pass
 
 
-remove_duplicates(parameters)
+print(remove_duplicates(parameters))
